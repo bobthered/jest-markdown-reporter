@@ -1,0 +1,30 @@
+{
+  "name": "@bobthered/jest-markdown-reporter",
+  "version": "0.0.1",
+  "description": "Add markdown file for jest tests",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobthered/jest-markdown-reporter.git"
+  },
+  "keywords": [
+    "jest",
+    "reporter",
+    "markdown"
+  ],
+  "author": "Bob McAleavey <bobmcaleavey@gmail.com> (https://bobthered.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bobthered/jest-markdown-reporter/issues"
+  },
+  "homepage": "https://github.com/bobthered/jest-markdown-reporter#readme",
+  "devDependencies": {
+    "eslint": "^7.12.1"
+  },
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
